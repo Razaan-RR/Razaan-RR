@@ -1,4 +1,6 @@
 ![Banner Image](Banner.png)
+<p><strong>About me</strong></p>
+<p>Welcome to my profile. My name is Razaan and I have completed my BSc. in CSE from ULAB and currently pursuing M.ENGG from BRACU. I have been practising fro about a year in Web Development. Previously I have made various projects using Laravel Framework. Currently I have switched to MERN stack to keep up with the trend. Even though I am a beginner I have created a full stack mern project and am confident about my skills in the stack.</p>
 <h1 align="center">Hi 👋, I'm Razaan Reza</h1>
 <h3 align="center">A passionate MERN Stack Developer from Dhaka, Bangladesh</h3>
 

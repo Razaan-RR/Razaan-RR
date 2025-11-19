@@ -1,3 +1,4 @@
+![Banner Image](Banner.png)
 <h1 align="center">Hi 👋, I'm Razaan Reza</h1>
 <h3 align="center">A passionate MERN Stack Developer from Dhaka, Bangladesh</h3>
 

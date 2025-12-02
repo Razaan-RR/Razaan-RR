@@ -4,7 +4,7 @@
 <p><strong>About me</strong></p>
 <p>Welcome to my profile. My name is Razaan and I have completed my BSc. in CSE from ULAB and currently pursuing M.ENGG from BRACU. I have been practising fro about a year in Web Development. Previously I have made various projects using Laravel Framework. Currently I have switched to MERN stack to keep up with the trend. Even though I am a beginner I have created a full stack mern project and am confident about my skills in the stack.</p>
 
-- 🔭 I’m currently working on [MovieApp_MERN](https://github.com/Razaan-RR/MovieApp_MERN)
+- 🔭 I’m currently working on [DeliveryServiceApp_MERN](https://github.com/Razaan-RR/delivery-service-app-MERN)
 
 - 🌱 I’m currently learning **MERN Stack from Programming Hero**
 

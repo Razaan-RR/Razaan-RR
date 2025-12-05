@@ -4,11 +4,8 @@
   Hi, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Razaan Reza
 </h1>
 <h3 align="center">MERN Stack Developer from Dhaka, Bangladesh</h3>
-
-<br>
-
 <p align="center">
-  📧 <strong>Email:</strong> razaanreza0705@gmail.com
+  📧 <strong>Email:</strong> <a href="mailto:razaanreza0705@gmail.com">razaanreza0705@gmail.com</a>
 </p>
 
 ---

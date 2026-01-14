@@ -21,23 +21,12 @@ Even as a beginner, I have completed real-world projects and constantly improve 
 
 ## 🚀 Featured Projects
 
-### 🛵 Trackify – MERN  
-A complete MERN based app for users to create, track, and manage daily habits to build streaks and boost productivity.
+### 🛵 BookHive – A Book Courier App  
+BookHive is a full-stack book courier application that allows users to browse, order, and review books from multiple librarians, with seamless delivery, role-based management, and secure payments.
 
 **Tech Used:** React, Node.js, Express, MongoDB, Firebase, Tailwind
 
-🔗 **Repository:** https://github.com/Razaan-RR/Habit_Tracker 
-
----
-
-## 🚀 Currrently Working On Projects
-
-### 🛵 Delivery Service App – MERN  
-A complete MERN-based delivery application with user login, delivery tracking, rider assignment & admin features.
-
-**Tech Used:** React, Node.js, Express, MongoDB  
-
-🔗 **Repository:** https://github.com/Razaan-RR/delivery-service-app-MERN
+🔗 **Live Link:** https://sage-bubblegum-e870ed.netlify.app/
 
 ---
 

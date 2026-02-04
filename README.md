@@ -27,6 +27,126 @@ BookHive is a full-stack book courier application that allows users to browse, o
 **Tech Used:** React, Node.js, Express, MongoDB, Firebase, Tailwind
 
 🔗 **Live Link:** https://sage-bubblegum-e870ed.netlify.app/
+🔗 **Github Link:** https://github.com/Razaan-RR/BookHive-MERN
+
+## 🖼️ Screenshots
+
+## 🔐 Authentication
+
+### Sign Up
+![Sign Up](./screenshots/sign-up.png)
+
+### Sign In
+![Sign In](./screenshots/sign-in.png)
+
+## 🏠 Landing Page
+
+### Hero Banner
+![Banner](./screenshots/banner.png)
+
+### Latest Arrivals
+![Latest Arrivals](./screenshots/latest-arrivals.png)
+
+### Coverage
+![Coverage](./screenshots/coverage.png)
+
+### Why Choose Us
+![Why Choose Us](./screenshots/why-choose.png)
+
+### Featured Collection
+![Featured Collection](./screenshots/featured-collection.png)
+
+### Testimonials
+![Testimonials](./screenshots/testimonial.png)
+
+### How It Works
+![How It Works](./screenshots/how-it-works.png)
+
+### Librarians
+![Librarians](./screenshots/librarians.png)
+
+
+## 👤 User Side
+
+### All Books
+![All Books](./screenshots/all-books.png)
+
+### Book Details
+![Book Details](./screenshots/book-details.png)
+
+### User Profile
+![User Profile](./screenshots/profile.png)
+
+### Wishlist
+![Wishlist](./screenshots/wishlist.png)
+
+### User Orders
+![User Orders](./screenshots/user-orders.png)
+
+### Order Details
+![Order Details](./screenshots/order-details.png)
+
+### Invoices
+![Invoices](./screenshots/invoices.png)
+
+### Payment (Stripe)
+![Stripe Payment](./screenshots/payment.png)
+
+### Payment Success
+![Payment Success](./screenshots/payment-success.png)
+
+
+## 🛠️ Admin Side
+
+### Manage Users
+![Manage Users](./screenshots/manage-users.png)
+
+### Manage Books
+![Manage Books](./screenshots/manage-books.png)
+
+
+## 📚 Librarian Side
+
+### Add Book
+![Add Book](./screenshots/add-book.png)
+
+### My Books
+![My Books](./screenshots/my-books.png)
+
+### Confirm Orders
+![Confirm Orders](./screenshots/confirm-orders.png)
+
+---
+
+## 🚀 Currently Working on Project
+
+### 🛵 Zarion – A Stock Tracker App  
+Zarion is a modern stock tracker application designed to simplify market monitoring with a clean, real-time dashboard. It enables users to track favorite stocks, analyze price movements, and stay on top of gains and losses—without unnecessary clutter.
+
+**Tech Used:** Typescript, Next.js, Better-auth, MongoDB, Inngest, Tailwind, Shadcn
+
+🔗 **Live Link:** [https://sage-bubblegum-e870ed.netlify.app/](https://stock-app-typescript-nextjs.vercel.app/)
+🔗 **Github Link:** https://github.com/Razaan-RR/stock-app-typescript-nextjs
+
+## 🖼️ Screenshots
+
+### 🔐 Sign-up
+![Sign-up](./screenshots/sign-up.png)
+
+### 🔐 Sign-in
+![Sign-in](./screenshots/sign-in.png)
+
+### 📊 Market Overview Dashboard
+![Market Overview](./screenshots/dashboard.png)
+
+### ⌨️ Search Palette
+![Search Palette](./screenshots/search-palette.png)
+
+### ⌨️ Stock Details
+![Stock Details](./screenshots/stock-details.png)
+
+### ⭐ Personalized Watchlist
+![Watchlist](./screenshots/watchlist.png)
 
 ---
 

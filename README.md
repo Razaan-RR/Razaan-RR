@@ -14,7 +14,7 @@
 I’m Razaan — a passionate MERN Stack Developer with a strong interest in building scalable and user-friendly web applications.  
 I completed my BSc in CSE from ULAB and I'm currently pursuing my M.Engg at BRAC University.
 
-I have hands-on experience building full-stack projects using **MongoDB, Express, React, Node.js**, along with previous experience in **Laravel**.  
+I have hands-on experience building full-stack projects using **MongoDB, Express, React, Node.js, Typescript, Next.js**, along with previous hands on experience in **Laravel**.  
 Even as a beginner, I have completed real-world projects and constantly improve my skills to keep up with modern trends.
 
 ---

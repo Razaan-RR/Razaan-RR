@@ -3,19 +3,9 @@
 <h1 align="center">
   Hi, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Razaan Reza
 </h1>
-<h3 align="center">MERN Stack Developer from Dhaka, Bangladesh</h3>
 <p align="center">
   📧 <strong>Email:</strong> <a href="mailto:razaanreza0705@gmail.com">razaanreza0705@gmail.com</a>
 </p>
-
----
-
-## 👨‍💻 About Me  
-I’m Razaan — a passionate MERN Stack Developer with a strong interest in building scalable and user-friendly web applications.  
-I completed my BSc in CSE from ULAB in 2024, and worked as a Teaching Assistent for 1.5 years.
-
-I have hands-on experience building full-stack projects using **MongoDB, Express, React, Node.js, Typescript, Next.js**, along with previous hands on experience in **Laravel**.  
-Even as a beginner, I have completed real-world projects and constantly improve my skills to keep up with modern trends.
 
 ---
 

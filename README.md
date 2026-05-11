@@ -120,7 +120,6 @@ BookHive is a full-stack book courier application that allows users to browse, o
 
 ---
 
-## 🚀 Currently Working on Project
 
 ### 🛵 Zarion – A Stock Tracker App  
 Zarion is a modern stock tracker application designed to simplify market monitoring with a clean, real-time dashboard. It enables users to track favorite stocks, analyze price movements, and stay on top of gains and losses—without unnecessary clutter.
@@ -264,15 +263,7 @@ Zarion is a modern stock tracker application designed to simplify market monitor
       <b>Postman</b>
     </td>
   </tr>
-</table>
-
----
-
-## 🌱 Currently Learning  
-- Advanced MERN Stack  
-- API Security  
-- Scalable backend structure  
-- Clean code & architecture  
+</table> 
 
 ---
 
@@ -301,7 +292,7 @@ Zarion is a modern stock tracker application designed to simplify market monitor
 ---
 
 ## 💼 Open to Opportunities  
-I am actively seeking **MERN Stack Intern / Junior Developer roles**.  
+I am actively seeking **Junior Developer roles**.  
 Feel free to reach out if you'd like to collaborate or hire me.
 
 ---

@@ -109,39 +109,6 @@ BookHive is a full-stack book courier application that allows users to browse, o
 
 ---
 
-
-### 🛵 Zarion – A Stock Tracker App  
-Zarion is a modern stock tracker application designed to simplify market monitoring with a clean, real-time dashboard. It enables users to track favorite stocks, analyze price movements, and stay on top of gains and losses—without unnecessary clutter.
-
-**Tech Used:** Typescript, Next.js, Better-auth, MongoDB, Inngest, Tailwind, Shadcn
-
-🔗 **Live Link:** [https://sage-bubblegum-e870ed.netlify.app/](https://stock-app-typescript-nextjs.vercel.app/)
-
-🔗 **Github Link:** https://github.com/Razaan-RR/stock-app-typescript-nextjs
-
-
-## 🖼️ Screenshots
-
-### 🔐 Sign-up
-![Sign-up](./screenshots-zarion/sign-up.png)
-
-### 🔐 Sign-in
-![Sign-in](./screenshots-zarion/sign-in.png)
-
-### 📊 Market Overview Dashboard
-![Market Overview](./screenshots-zarion/dashboard.png)
-
-### ⌨️ Search Palette
-![Search Palette](./screenshots-zarion/search-palette.png)
-
-### ⌨️ Stock Details
-![Stock Details](./screenshots-zarion/stock-details.png)
-
-### ⭐ Personalized Watchlist
-![Watchlist](./screenshots-zarion/watchlist.png)
-
----
-
 ## 🛠️ Tech Stack
 
 ### **Frontend**
@@ -277,11 +244,5 @@ Zarion is a modern stock tracker application designed to simplify market monitor
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=razaan-rr" />
 </p>
-
----
-
-## 💼 Open to Opportunities  
-I am actively seeking **Junior Developer roles**.  
-Feel free to reach out if you'd like to collaborate or hire me.
 
 ---
